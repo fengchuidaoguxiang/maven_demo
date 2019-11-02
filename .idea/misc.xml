@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/JavaProject03" />
+    <file type="web" url="file://$PROJECT_DIR$/WebProject02" />
+    <file type="web" url="file://$PROJECT_DIR$/WebProject03" />
+    <file type="web" url="file://$PROJECT_DIR$/WebProject05" />
+    <file type="web" url="file://$PROJECT_DIR$/WebProject06" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JavaProject01/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaProject02/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaProject03/pom.xml" />
+        <option value="$PROJECT_DIR$/WebProject02/pom.xml" />
+        <option value="$PROJECT_DIR$/WebProject03/pom.xml" />
+        <option value="$PROJECT_DIR$/WevProject04/pom.xml" />
+        <option value="$PROJECT_DIR$/WebProject05/pom.xml" />
+        <option value="$PROJECT_DIR$/WebProject06/pom.xml" />
+        <option value="$PROJECT_DIR$/MakeFriends/pom.xml" />
+        <option value="$PROJECT_DIR$/OurFriends/pom.xml" />
+        <option value="$PROJECT_DIR$/Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloFriend/pom.xml" />
+        <option value="$PROJECT_DIR$/Hello/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

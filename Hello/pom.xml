@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>Hello</artifactId>
+
+
+	<!-- 子工程中声明父工程-->
+	<parent>
+		<groupId>com.wjx.maven</groupId>
+		<artifactId>Parent</artifactId>
+		<version>1.0-SNAPSHOT</version>
+		<!--以当前工程的pom.xml文件为基准的父工程pom.xml文件的相对路径-->
+		<relativePath>../Parent/pom.xml</relativePath>
+	</parent>
+
+	<properties>
+		<wjx.spring.version>4.1.1.RELEASE</wjx.spring.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<name>Hello</name>
+	  
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+<!--		<dependency>-->
+<!--			<groupId>org.springframework</groupId>-->
+<!--			<artifactId>spring-core</artifactId>-->
+<!--			<version>4.0.0.RELEASE</version>-->
+<!--			<scope>compile</scope>-->
+<!--		</dependency>-->
+
+		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+<!--		<dependency>-->
+<!--			<groupId>log4j</groupId>-->
+<!--			<artifactId>log4j</artifactId>-->
+<!--			<version>1.2.17</version>-->
+<!--		</dependency>-->
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+			<version>${wjx.spring.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-orm</artifactId>
+			<version>${wjx.spring.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+			<version>${wjx.spring.version}</version>
+		</dependency>
+
+	</dependencies>
+</project>

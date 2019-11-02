@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloFriend/HelloFriend.iml" filepath="$PROJECT_DIR$/HelloFriend/HelloFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProject01/JavaProject01.iml" filepath="$PROJECT_DIR$/JavaProject01/JavaProject01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProject02/JavaProject02.iml" filepath="$PROJECT_DIR$/JavaProject02/JavaProject02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProject03/JavaProject03.iml" filepath="$PROJECT_DIR$/JavaProject03/JavaProject03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakeFriends/MakeFriends.iml" filepath="$PROJECT_DIR$/MakeFriends/MakeFriends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OurFriends/OurFriends.iml" filepath="$PROJECT_DIR$/OurFriends/OurFriends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebProject02/WebProject02.iml" filepath="$PROJECT_DIR$/WebProject02/WebProject02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebProject03/WebProject03.iml" filepath="$PROJECT_DIR$/WebProject03/WebProject03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebProject05/WebProject05.iml" filepath="$PROJECT_DIR$/WebProject05/WebProject05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebProject06/WebProject06.iml" filepath="$PROJECT_DIR$/WebProject06/WebProject06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WevProject04/WevProject04.iml" filepath="$PROJECT_DIR$/WevProject04/WevProject04.iml" />
+    </modules>
+  </component>
+</project>
